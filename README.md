@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 #### I’m currently working as a Full Stack Developer for Studica Limited.
 
 ## 🌱 Past Work Experience:
-- Volunteering Peel
-- Kumon Inc.
-- SPARK
-- Youth Culture Inc.
+- **Software Engineer - Frontend** @ Volunteering Peel
+- **Project Co-Manager** @ SPARK
+- **UI/UX Devloper** @ Youth Culture Inc.
+- **Teachers Assistant** @ Kumon Inc.
+
 
 ## 📫 Reach out:
 
