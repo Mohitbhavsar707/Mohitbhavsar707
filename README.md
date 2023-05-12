@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### I’m currently working as a Full Stack Developer for Studica Limited.
 
 ## 🌱 Past Work Experience:
-- **Fullstack Developer @ Studica Limited
+- **Fullstack Developer** @ Studica Limited
 - **Software Engineer - Frontend** @ Volunteering Peel
 - **Project Co-Manager** @ SPARK
 - **UI/UX Devloper** @ Youth Culture Inc.
