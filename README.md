@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 About me:
-#### I’m currently working as a Full Stack Developer for Studica Limited.
+#### I’m currently studying Systems Design Engineering at the University of Waterloo!
 
 ## 🌱 Past Work Experience:
 - **Fullstack Developer** @ Studica Limited
