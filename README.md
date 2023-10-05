@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+#### I’m currently studying Systems Design Engineering at the University of Waterloo!
+
 -->
 
 ## 🔭 About me:
-#### I’m currently studying Systems Design Engineering at the University of Waterloo!
+#### I’m currently working at the Toronto Transit Commission (TTC) as a Software Engineer!
 
 ## 🌱 Past Work Experience:
 - **Fullstack Developer** @ Studica Limited
-- **Software Engineer - Frontend** @ Volunteering Peel
+- **Software Engineer** @ Volunteering Peel
 - **Project Co-Manager** @ SPARK
 - **UI/UX Devloper** @ Youth Culture Inc.
 - **Teachers Assistant** @ Kumon Inc.
