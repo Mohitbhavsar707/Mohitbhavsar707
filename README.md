@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 About me:
-#### I’m currently working at the Toronto Transit Commission (TTC) as a Software Engineer!
+I’m currently working at the Toronto Transit Commission (TTC) as a Software Engineer!
 
 ## 🌱 Past Work Experience:
 - **Fullstack Developer** @ Studica Limited
