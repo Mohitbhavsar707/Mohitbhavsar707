@@ -25,7 +25,7 @@ I’m currently in my 2A Term studying Systems Design Engineering at the Univers
 ## 🌱 Past Work Experience:
 - **Software Engineer** @ Toronto Transit Commission (TTC)
 - **Fullstack Developer** @ Studica Limited
-- **Software Engineer** @ Volunteering Peel
+- **Frontend Engineer** @ Volunteering Peel
 - **Teachers Assistant** @ Kumon Inc.
 
 
