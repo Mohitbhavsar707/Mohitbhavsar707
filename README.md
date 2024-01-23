@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 About me:
-I’m currently working at the Toronto Transit Commission (TTC) as a Software Engineer!
+I’m currently studying Systems Design Engineering at the University of Waterloo!
 
 ## 🌱 Past Work Experience:
+- **Software Engineer** @ Toronto Transit Commission (TTC)
 - **Fullstack Developer** @ Studica Limited
 - **Software Engineer** @ Volunteering Peel
-- **Project Co-Manager** @ SPARK
-- **UI/UX Devloper** @ Youth Culture Inc.
 - **Teachers Assistant** @ Kumon Inc.
 
 
