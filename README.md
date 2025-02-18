@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 About me:
-I’m currently in my 2B Term studying Systems Design Engineering at the University of Waterloo!
+I’m currently working at Zynga as a Software Engineering Intern!
 
 ## 🌱 Past Work Experience:
 - **Software Engineer** @ Toronto Transit Commission (TTC)
