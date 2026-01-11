@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 About me:
-I’m currently working at Zynga as a Software Engineering Intern!
+I’m currently studying Systems Design Engineering at the University of Waterloo.
 
 ## 🌱 Past Work Experience:
+- **Software Development Engineer** @ Amazon (AWS Neptune)
+- **Software Engineer** @ Zynga
 - **Software Engineer** @ Toronto Transit Commission (TTC)
 - **Fullstack Developer** @ Studica Limited
-- **Frontend Engineer** @ Volunteering Peel
-- **Teachers Assistant** @ Kumon Inc.
 
 
 ## 📫 Reach out:
